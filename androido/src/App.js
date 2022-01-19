@@ -10,7 +10,9 @@ function App() {
     </div>*/
     <div>
       <TopBar/>
+      {/*<SinglePost/>*/}
       <Home/>
+      
     </div>
   );
 }

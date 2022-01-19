@@ -18,6 +18,7 @@ export default function TopBar() {
                     <li className='topListItem'>Live Projects</li>
                     <li className='topListItem'>App Store</li>
                     <li className='topListItem'>Hosting Service</li>
+                    <li className='topListItem'>Books</li>
                     <li className='topListItem'>Blogs</li>
                     <li className='topListItem'>About</li>
                 </ul>
